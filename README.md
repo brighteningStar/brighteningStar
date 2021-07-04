@@ -15,3 +15,5 @@ You can find me on [![LinkedIn][1.2]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/najam-us-saqib/
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
