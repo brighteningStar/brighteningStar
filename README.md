@@ -16,4 +16,4 @@ You can find me on [![LinkedIn][1.2]][1].
 
 [1]: https://www.linkedin.com/in/najam-us-saqib/
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brighteningStar&repo=CrimeRacer-THREE.js-)](https://github.com/brighteningStar/CrimeRacer-THREE.js-)
